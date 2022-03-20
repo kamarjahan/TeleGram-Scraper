@@ -20,7 +20,7 @@ def banner():
 	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐
 	{re}╚═╗{cy}├┤  │ │ │├─┘
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴
-	""")
+	maded by devourdevils hrt""")
 
 def requirements():
 	def csv_lib():
